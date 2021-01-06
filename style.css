@@ -125,7 +125,7 @@ left: 300px;
    float: left;
    width: 20%; 
    margin-left: 38%;
-   margin-right: 42%;
+   margin-right: 25%;
    box-shadow: 10px 10px 40px gray;
     border-radius: 10px;
     text-align: center;
@@ -157,10 +157,8 @@ margin-left: 10px;
 #bottom-part{
     height: 40px;
     width: 170px;
-    margin-left: 45%;
-    margin-right: 30%;
+    margin-left: 46%;
     padding-bottom:25%;
-    padding-right: 60%;
 
 }
 #footer{
