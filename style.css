@@ -2,32 +2,39 @@ body{
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
 }
+
 #header{
 height: 30px;
 }
+
 .link-header a{
     text-decoration: none;
     font-weight: bold;
     color: #3C3C3C ;
 }
+
 .link-header{
     float:right;
     padding-right: 5px;
     margin-right: 50px;
     margin-top: 2%;
 }
+
 .half-width{
 float: left;
 width: 40%;
 padding-left:2%;
 margin-left: 3%;
 }
+
 .half-width img{
     width: 100%;
 }
+
 .salmon-highlight{
     color: salmon;
 }
+
 h1{
     font-size: 80px;
     font-weight: 400;
@@ -36,6 +43,7 @@ h1{
     line-height:75px;
     margin:2px 0px;
 }
+
 .link-button{
     text-decoration: none;
     padding: 10px 20px;
@@ -48,9 +56,8 @@ h1{
 #project h1{
     margin: 10% 0%;
     text-align: center;
-    
-
 }
+
 #project{
     margin-top: 80%;
     margin-bottom: 5%;
@@ -58,10 +65,12 @@ h1{
     padding-bottom: 40%;
     padding-top: 5px;
 }
+
 h3{
     font-size: 24px;
     color: gray;
 }
+
 .one-third-width{
     width: 25%;
     margin-left: 3.2%;
@@ -71,19 +80,19 @@ h3{
     border-radius: 10px;
     height:450px;
     background-color: white;
-
-    
 }
+
 .one-third-width img{
     height: 210px;
     width: 340px;
     display: block;
     margin: auto;
-
 }
+
 p{
     text-align: justify;
 }
+
 #work-inquiry{
     background-image:url("background/bg.png");
     background-size: contain;
@@ -93,22 +102,46 @@ p{
     margin-left: 25%;
     margin-right: 30%;
     margin-bottom: 5%;
-    
 }
+
 #inquiry-title{
     color: white;
     margin-top: 22%;
     margin-left: 7%;
     font-size: 60px;
 }
+
 #chat-button{
 position: relative;
 top: 100px;
 left: 300px;
 }
+
 .bottom-lines{
     text-align: center;
 }
+
+.connect{
+   float: left;
+   width: 20%; 
+   margin-left: 38%;
+   margin-right: 42%;
+   box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    text-align: center;
+    padding-bottom: 15px;
+    padding-right: 25px;
+    margin-bottom: 2%;
+}
+
+#feedback{
+    padding-left: 2%;
+}
+
+#connect-title{
+    text-align: center;
+}
+
 h2{
     font-size: 36px;
     font-weight: bold;
@@ -120,6 +153,7 @@ float: left;
 width: 25%;
 margin-left: 10px;
 }
+
 #bottom-part{
     height: 40px;
     width: 170px;
@@ -133,24 +167,4 @@ margin-left: 10px;
     text-align:center;
     padding: 10px 0px;
     margin-top: 5%;
-}
-.connect
-{
-   float: left;
-   width: 20%; 
-   margin-left: 38%;
-   margin-right: 42%;
-   box-shadow: 10px 10px 40px gray;
-    border-radius: 10px;
-    text-align: center;
-    padding-bottom: 15px;
-    padding-right: 25px;
-    margin-bottom: 2%;
-
-}
-#feedback{
-    padding-left: 2%;
-}
-#connect-title{
-    text-align: center;
 }
