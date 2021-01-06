@@ -86,6 +86,7 @@ p{
 }
 #work-inquiry{
     background-image:url("background/bg.png");
+    background-size: contain;
     float: left;
     width: 906px;
     height: 225px;
@@ -124,4 +125,9 @@ margin-left: 10px;
     width: 170px;
     margin-left: 45%;
     margin-right: 30%;
+}
+#footer{
+    text-align:center;
+    padding: 10px 0px;
+    margin-top: 5%;
 }
